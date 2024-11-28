@@ -15,4 +15,10 @@ This is an automatic pizza order calculator created as part of my 100 Days of Co
 ## How It Works:
 1. Run the program.  
 2. Follow the prompts to input your pizza size and topping preferences.  
-3. The program calculates and displays your total bill.  
+3. The program calculates and displays your total bill.
+
+
+## How to Run:
+Click the green Code button in the repository.
+Select Download ZIP to get the project files.
+Extract the ZIP and run the .py files using Python.
